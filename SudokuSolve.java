@@ -1,4 +1,4 @@
-package sudoku;
+﻿package sudoku;
 
 import java.awt.BasicStroke;
 import java.awt.BorderLayout;
@@ -39,7 +39,7 @@ public class SudokuSolve
 		});
 	}
 }
-/**Класс представляющий фрейм*/
+/**Класс представляющий фрейм.*/
 class SudokuFrame extends JFrame
 {	
 	/**Размер ячейки поля судоку в пикселях.*/
