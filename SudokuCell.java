@@ -7,7 +7,7 @@ import java.util.ArrayList;
 @version 28.06.2018 */
 public class SudokuCell 
 {
-   /**Количество возможных значений в клетке.*/
+   /**Количество возможных значений в клетке*/
    public final int NUMBER_OF_POSSIBLE_VALUES = 9; 
    
    /**Числовое значение в клетке*/
