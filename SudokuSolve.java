@@ -28,7 +28,7 @@ public class SudokuSolve
 {
 	public static void main(String[] args) 
 	{
-	    //Создаём фрейм и делаем его видимым
+	    //Создаём и инициализируем фрейм в потоке диспетчеризации
 	    EventQueue.invokeLater(()->
         {
         	JFrame myframe = new SudokuFrame();
