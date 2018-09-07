@@ -14,7 +14,6 @@ import java.awt.Image;
 import java.awt.Toolkit;
 import java.awt.geom.Line2D;
 import java.io.File;
-
 import javax.swing.*;
 import javax.swing.border.LineBorder;
 import javax.swing.filechooser.FileNameExtensionFilter;
